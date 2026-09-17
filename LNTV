@@ -237,7 +237,7 @@ CCTV16 4K,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/32
 睛彩篮球,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227349/1.m3u8
 睛彩青少,http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227294/1.m3u8
 
-卫视频道,#genre#,JS=https://gitee.com/fjshow/tv/raw/master/pyjs/fhs.js
+凤凰频道,#genre#,JS=https://gitee.com/fjshow/tv/raw/master/pyjs/fhs.js
 凤凰中文,http://A/ku9/js/fhs.js?id=fhzw
 凤凰资讯,http://A/ku9/js/fhs.js?id=fhzx
 凤凰香港,http://A/ku9/js/fhs.js?id=fhhk
